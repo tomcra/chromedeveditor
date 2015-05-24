@@ -53,3 +53,6 @@ transformers:
 - polymer:
     entry_points: web/spark_polymer.html
     csp: true
+- chrome
+- $dart2js:
+    csp: true    

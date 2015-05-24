@@ -579,6 +579,7 @@ class AceManager {
     ace.Mode.extensionMap['project'] = ace.Mode.XML;
     ace.Mode.extensionMap['webapp'] = ace.Mode.JSON;
     ace.Mode.extensionMap['gsp'] = ace.Mode.HTML;
+    ace.Mode.extensionMap['hbs'] = ace.Mode.HANDLEBARS;
     ace.Mode.extensionMap['jsp'] = ace.Mode.HTML;
     ace.Mode.extensionMap['sql'] = ace.Mode.SQL;
     ace.Mode.extensionMap['sqlite'] = ace.Mode.SQL;
